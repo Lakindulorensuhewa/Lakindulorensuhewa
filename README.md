@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td valign="top" width="70%">
+<td valign="top" width="68%">
 
 ```yaml
 name:     Lakindu Lorensuhewa
@@ -31,10 +31,12 @@ quote:    "Gaming is my passion, coding is my craft,
 ```
 
 </td>
-<td valign="top" width="30%" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/158687209?v=4" width="140" style="border-radius:12px"/>
-
+<td valign="top" width="32%" align="center">
+<br/>
+<img src="https://avatars.githubusercontent.com/u/158687209?v=4" width="130" style="border-radius:50%"/>
+<br/><br/>
+<b>Lakindu Lorensuhewa</b><br/>
+<sub>🇱🇰 Sri Lanka</sub>
 </td>
 </tr>
 </table>
@@ -45,17 +47,7 @@ quote:    "Gaming is my passion, coding is my craft,
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-030307?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-030307?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-030307?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/Node.js-030307?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Markdown](https://img.shields.io/badge/Markdown-030307?style=for-the-badge&logo=markdown&logoColor=ffffff)
-
-![Discord](https://img.shields.io/badge/Discord-030307?style=for-the-badge&logo=discord&logoColor=5865F2)
-![Minecraft](https://img.shields.io/badge/Minecraft-030307?style=for-the-badge&logo=creativecommons&logoColor=62b47a)
-![Vercel](https://img.shields.io/badge/Vercel-030307?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-030307?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-030307?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,md,discord,vercel,github,vscode&theme=dark&perline=9"/>
 
 </div>
 
@@ -65,9 +57,9 @@ quote:    "Gaming is my passion, coding is my craft,
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lakindulorensuhewa&show_icons=true&theme=transparent&hide_border=true&title_color=7c5cf4&icon_color=06b6d4&text_color=eeedf8&bg_color=0d0d1a&ring_color=7c5cf4&count_private=true&include_all_commits=true&custom_title=GitHub+Stats&border_radius=12" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Lakindulorensuhewa&show_icons=true&theme=transparent&hide_border=true&title_color=7c5cf4&icon_color=06b6d4&text_color=eeedf8&bg_color=0d0d1a&ring_color=7c5cf4&count_private=true&include_all_commits=true&custom_title=GitHub+Stats&border_radius=12"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakindulorensuhewa&layout=donut&theme=transparent&hide_border=true&title_color=7c5cf4&text_color=eeedf8&bg_color=0d0d1a&langs_count=6&border_radius=12&custom_title=Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakindulorensuhewa&layout=donut&theme=transparent&hide_border=true&title_color=7c5cf4&text_color=eeedf8&bg_color=0d0d1a&langs_count=6&border_radius=12&custom_title=Languages"/>
 
 </div>
 
@@ -89,20 +81,30 @@ quote:    "Gaming is my passion, coding is my craft,
 
 <div align="center">
 
-<a href="https://www.primelandmc.net/">
-  <img src="https://img.shields.io/badge/🎮_PrimeLandMC-Minecraft_Network-7c5cf4?style=for-the-badge&labelColor=0d0d1a"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://lakindulorensuhewa.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-lakindulorensuhewa.vercel.app-06b6d4?style=for-the-badge&labelColor=0d0d1a"/>
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br/><br/>
+### 🎮 PrimeLandMC
+**Minecraft Survival Network**
 
-| 🎮 PrimeLandMC | 🌐 Portfolio |
-|:---:|:---:|
-| Minecraft Survival Network | Creative Developer Portfolio |
-| [primelandmc.net](https://www.primelandmc.net/) | [lakindulorensuhewa.vercel.app](https://lakindulorensuhewa.vercel.app) |
+[![Visit](https://img.shields.io/badge/Visit_PrimeLandMC-7c5cf4?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.primelandmc.net/)
+
+Minecraft network founded and managed<br/>by Lakindu Lorensuhewa
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Portfolio
+**Creative Developer Portfolio**
+
+[![Visit](https://img.shields.io/badge/Visit_Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://lakindulorensuhewa.vercel.app)
+
+Full portfolio with projects, photos<br/>and contact info
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -126,13 +128,13 @@ quote:    "Gaming is my passion, coding is my craft,
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=vercel&logoColor=7c5cf4)](https://lakindulorensuhewa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=googlechrome&logoColor=7c5cf4)](https://lakindulorensuhewa.vercel.app)
 [![YouTube](https://img.shields.io/badge/YouTube-0d0d1a?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCREyfZFMf0nAGEeoxQ3yHyg)
 [![TikTok](https://img.shields.io/badge/TikTok-0d0d1a?style=for-the-badge&logo=tiktok&logoColor=ffffff)](https://tiktok.com/@lt_lorenz)
 [![Instagram](https://img.shields.io/badge/Instagram-0d0d1a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/lt_lorenz)
 [![Threads](https://img.shields.io/badge/Threads-0d0d1a?style=for-the-badge&logo=threads&logoColor=ffffff)](https://threads.net/lt_lorenz)
 [![Spotify](https://img.shields.io/badge/Spotify-0d0d1a?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31fteechdr6qamfctk2y64e2kdjm)
-[![PrimeLandMC](https://img.shields.io/badge/PrimeLandMC-0d0d1a?style=for-the-badge&logo=creativecommons&logoColor=7c5cf4)](https://www.primelandmc.net/)
+[![PrimeLandMC](https://img.shields.io/badge/PrimeLandMC-0d0d1a?style=for-the-badge&logo=minecraft&logoColor=7c5cf4)](https://www.primelandmc.net/)
 
 </div>
 
