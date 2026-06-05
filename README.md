@@ -24,7 +24,7 @@
 name:     Lakindu Lorensuhewa
 alias:    Lakoshi_Gaming
 role:     Founder @ PrimeLandMC
-location: Negombo, Sri Lanka 🇱🇰
+location: Maharagama, Sri Lanka 🇱🇰
 timezone: UTC+5:30
 focus:    Creative Development · Gaming · Community Building
 quote:    "Gaming is my passion, coding is my craft, success is my goal."
